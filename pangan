@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dummy Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to My Dummy Website</h1>
+</header>
+
+<main>
+    <h2>About This Site</h2>
+    <p>This is a simple dummy website created for demonstration purposes. It's built using basic HTML and CSS.</p>
+
+    <h3>Features:</h3>
+    <ul>
+        <li>Responsive Design</li>
+        <li>Simple Navigation</li>
+        <li>Dummy Content</li>
+    </ul>
+
+    <p>Feel free to explore and customize it!</p>
+</main>
+
+<footer>
+    <p>Dummy Website - Created for Demo Purposes</p>
+</footer>
+
+</body>
+</html>
